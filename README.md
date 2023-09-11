@@ -6,6 +6,7 @@
 - [@himanshudas75](https://github.com/himanshudas75)
 - [@imraunn](https://github.com/imraunn)
 - [@sudoshreyansh](https://github.com/sudoshreyansh)
+- [@ArijitGuha0179](https://github.com/ArijitGuha0179)
 
 ## Features:
 - Beginner-friendly CTF (Capture the Flag) like web challenges
